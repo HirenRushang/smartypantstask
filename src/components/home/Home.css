@@ -1,0 +1,63 @@
+.home__detail .home__detail__btn{
+    text-align: right;
+    padding-top: 30px;
+
+}
+
+.home__detail .home__detail__btn button{
+    background: #fd9b9b;
+    padding: 5px 20px;
+}
+
+
+.home__detail table{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.home__detail table thead{
+    height: 50px;
+    background: beige;
+}
+
+
+
+.home__detail table tbody tr{
+    background: aliceblue;
+    height: 40px;
+    text-align: center;
+}
+
+.home__detail .searchbox{
+    text-align: center;
+}
+
+.home__detail .searchbox input{
+    width: 78%;
+    height: 37px;
+    border-radius: 5px;
+    padding-left: 12px;
+}
+
+.home__detail a{
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+    
+}
+
+/* homedetail page */
+
+.homedetail{
+    text-align: center;
+}
+
+.homedetail h1{
+    margin: 20px 0;
+}
+
+.home__detail p{
+    margin-bottom: 10px;
+}
+
